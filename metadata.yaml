@@ -1,0 +1,35 @@
+_repo: Old-Quebec--The-Fortress-of-New-France_30367
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Bryan, Claude Glennon
+    birthdate: 1876
+    gutenberg_agent_id: '34560'
+    url: http://www.gutenberg.org/2009/agents/34560
+  - agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2009-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30367'
+  lccn: 03025903
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Québec (Province) -- History'
+- !lcc 'F1001'
+title: 'Old Quebec: The Fortress of New France'
+url: http://www.gutenberg.org/ebooks/30367
